@@ -1,0 +1,47 @@
+ h1 {
+  text-shadow: hoff voff blur #000;
+  
+}
+.subheading {
+  color:rgb(250, 128, 6)
+}
+body {
+  background-color: rgb(249, 218, 161);
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.post-title {
+  text-align: center;
+  color: rgb(250, 128, 6);
+}
+.post-subtitle {
+  text-align: left;
+  font-size: 1.5rem;
+  font-weight: normal;
+  color: #333;
+}
+
+hr {
+  background-color: black;
+  
+}
+.post-preview {
+  margin-top: 6rem;
+  margin-bottom: 12rem;
+}
+.post-title {
+  margin-bottom: 4rem;
+}
+.first {
+  margin-top: 3rem;
+}
+
+.id {
+  display: flex;
+  justify-content: space-around;
+}
+video {
+  display:block;
+}
