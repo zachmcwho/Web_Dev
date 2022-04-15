@@ -40,8 +40,32 @@ hr {
 
 .id {
   display: flex;
+  flex-direction: row;
   justify-content: space-around;
 }
 video {
   display:block;
+}
+.contactinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.contactinfo h3 {
+  margin: 3rem;
+}
+.contactinfo h3 {
+  
+  color: rgb(253, 163, 7);
+}
+.dogs {
+  height: 20%;
+
+}
+.interests {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;;
+
 }
