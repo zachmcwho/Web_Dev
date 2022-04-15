@@ -43,8 +43,13 @@ hr {
   flex-direction: row;
   justify-content: space-around;
 }
-video {
+
+img {
   display:block;
+  width: 60%;
+}
+iframe {
+max-width: 100%;
 }
 .contactinfo {
   display: flex;
@@ -68,4 +73,12 @@ video {
   align-items: center;
   gap: 2rem;;
 
+}
+.espn {
+  height: 8rem;
+  width: 100%;
+  background-color: orange;
+  display: flex;
+  align-items: center;
+justify-content: center;
 }

@@ -1,0 +1,17 @@
+main {
+  margin: 6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: brown;
+  
+}
+
+.caption {
+  height: 50px;
+  width: 100%;
+  background-color: grey;
+}
+h5 {
+  text-align: center;
+}
