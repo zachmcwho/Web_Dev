@@ -1,7 +1,16 @@
 main {
    margin: 6rem;
-   
 } 
+nav a {
+  font-size: 1.5rem;
+
+}
+
+nav a:visited {
+  color:rgb(253, 163, 7)
+}
+
+
 footer {
   display: flex;
   flex-direction: column;
