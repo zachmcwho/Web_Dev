@@ -43,6 +43,9 @@ hr {
   flex-direction: row;
   justify-content: space-around;
 }
+.list-inline-item {
+  align-text: center;
+}
 
 img {
   display:block;
