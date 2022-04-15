@@ -1,17 +1,34 @@
 main {
-  margin: 6rem;
+   margin: 6rem;
+   
+} 
+nav {
   display: flex;
-  flex-direction: column;
+  justify-content: space-around;
   align-items: center;
-  background-color: brown;
-  
 }
-
+body {
+  background-color: grey;
+}
 .caption {
   height: 50px;
   width: 100%;
   background-color: grey;
+  margin-bottom: 6rem;
 }
 h5 {
   text-align: center;
+  font-size: 1.5rem;
+}
+.contactinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.contactinfo h3 {
+  margin: 3rem;
+}
+.contactinfo h3 {
+  
+  color: rgb(253, 163, 7);
 }
